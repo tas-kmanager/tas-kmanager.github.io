@@ -1,7 +1,7 @@
 title: tas_kmanager's journal
 email: mt.infosec@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-This is a website showcasing articles written by Mangatas Tondang
+  This is a website showcasing articles written by Mangatas Tondang
 permalink: ':title/'
 baseurl: "/tas-kmanager.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
