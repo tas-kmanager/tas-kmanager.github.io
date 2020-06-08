@@ -347,7 +347,8 @@ html {
 /**
  * Remove the margin in all browsers (opinionated).
  */
-body {
+
+{
   margin: 0;
 }
 
@@ -781,7 +782,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   color: #3e3e40;
   margin: 0;
-  background-color: #fff;
+  background-color: #bfbfbf;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-overflow-scrolling: touch;
